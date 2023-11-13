@@ -24,9 +24,9 @@ function generateVectorList(row) {
         row.vectors.forEach(x => {
 
             if (x.scopeAvId) {
-                vectorString = <div> <a href={"https://khulnasoft.github.io/risk-explorer-for-software-supply-chains/#/attacktree?av="+x.avId} target="_blank" rel="noreferrer">[{x.avId}] {x.avName}</a> in the scope of <a href={"https://khulnasoft.github.io/risk-explorer-for-software-supply-chains/#/attacktree?av="+x.scopeAvId} target="_blank" rel="noreferrer">[{x.scopeAvId}] {x.scopeAvName}</a></div>
+                vectorString = <div> <a href={"https://khulnasoft.github.io/risk-explorer/#/attacktree?av="+x.avId} target="_blank" rel="noreferrer">[{x.avId}] {x.avName}</a> in the scope of <a href={"https://khulnasoft.github.io/risk-explorer/#/attacktree?av="+x.scopeAvId} target="_blank" rel="noreferrer">[{x.scopeAvId}] {x.scopeAvName}</a></div>
             } else {
-                vectorString = <div> <a href={"https://khulnasoft.github.io/risk-explorer-for-software-supply-chains/#/attacktree?av="+x.avId} target="_blank" rel="noreferrer">[{x.avId}] {x.avName}</a></div>
+                vectorString = <div> <a href={"https://khulnasoft.github.io/risk-explorer/#/attacktree?av="+x.avId} target="_blank" rel="noreferrer">[{x.avId}] {x.avName}</a></div>
             }
             if(vectList.indexOf(vectorString) === -1){
                 vectList.push(vectorString)

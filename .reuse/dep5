@@ -1,5 +1,5 @@
 Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
-Upstream-Name: risk-explorer-for-software-supply-chains
+Upstream-Name: risk-explorer
 Upstream-Contact: security@khulnasoft.com
 Source: https://github.com/khulnasoft/risk-explorer
 Disclaimer: The code in this project may include calls to APIs ("API Calls") of
@@ -25,5 +25,5 @@ Disclaimer: The code in this project may include calls to APIs ("API Calls") of
  parties the right to use of access any KHULNASOFT External Product, through API Calls.
 
 Files: .gitignore CODE_OF_CONDUCT.md CONTRIBUTING.md LICENSE package-lock.json package.json README.md references-template.json src/* public/* .github/*
-Copyright:  2023 KHULNASOFT SE or an KHULNASOFT affiliate company and risk-explorer-for-software-supply-chains contributors
+Copyright:  2023 KHULNASOFT SE or an KHULNASOFT affiliate company and risk-explorer contributors
 License: Apache-2.0
