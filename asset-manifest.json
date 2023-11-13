@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/risk-explorer/static/css/main.b0d39b0b.css",
-    "main.js": "/risk-explorer/static/js/main.83221ad8.js",
+    "main.js": "/risk-explorer/static/js/main.bf3fda50.js",
     "static/media/OSS-SuppChainModel-FMC-modified.png": "/risk-explorer/static/media/OSS-SuppChainModel-FMC-modified.6551243ac3324cc3bbca.png",
     "static/media/sparta-logo.png": "/risk-explorer/static/media/sparta-logo.b167577dad7491ef922b.png",
     "static/media/AttackTreeExample-modified.png": "/risk-explorer/static/media/AttackTreeExample-modified.49a06b3e87de2ffc83c3.png",
@@ -10,10 +10,10 @@
     "static/media/KHULNASOFT_R_grad_scrn.png": "/risk-explorer/static/media/KHULNASOFT_R_grad_scrn.4fb92db1677fe86b2d5a.png",
     "index.html": "/risk-explorer/index.html",
     "main.b0d39b0b.css.map": "/risk-explorer/static/css/main.b0d39b0b.css.map",
-    "main.83221ad8.js.map": "/risk-explorer/static/js/main.83221ad8.js.map"
+    "main.bf3fda50.js.map": "/risk-explorer/static/js/main.bf3fda50.js.map"
   },
   "entrypoints": [
     "static/css/main.b0d39b0b.css",
-    "static/js/main.83221ad8.js"
+    "static/js/main.bf3fda50.js"
   ]
 }
