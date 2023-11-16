@@ -1,6 +1,6 @@
 {
   "name": "attacktree",
-  "homepage": "https://khulnasoft.github.io/risk-explorer/",
+  "homepage": "https://riex.khulnasoft.com",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
