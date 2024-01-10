@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/risk-explorer/static/css/main.b0d39b0b.css",
-    "main.js": "/risk-explorer/static/js/main.bf3fda50.js",
-    "static/media/OSS-SuppChainModel-FMC-modified.png": "/risk-explorer/static/media/OSS-SuppChainModel-FMC-modified.6551243ac3324cc3bbca.png",
-    "static/media/sparta-logo.png": "/risk-explorer/static/media/sparta-logo.b167577dad7491ef922b.png",
-    "static/media/AttackTreeExample-modified.png": "/risk-explorer/static/media/AttackTreeExample-modified.49a06b3e87de2ffc83c3.png",
-    "static/media/assuremoss_logo.png": "/risk-explorer/static/media/assuremoss_logo.fcdc81a58f3b3e841898.png",
-    "static/media/attackgraph.svg": "/risk-explorer/static/media/attackgraph.e3fed8db89889517a0c8c4e54a662411.svg",
-    "static/media/KHULNASOFT_R_grad_scrn.png": "/risk-explorer/static/media/KHULNASOFT_R_grad_scrn.4fb92db1677fe86b2d5a.png",
-    "index.html": "/risk-explorer/index.html",
-    "main.b0d39b0b.css.map": "/risk-explorer/static/css/main.b0d39b0b.css.map",
-    "main.bf3fda50.js.map": "/risk-explorer/static/js/main.bf3fda50.js.map"
+    "main.css": "/static/css/main.fa935de4.css",
+    "main.js": "/static/js/main.fc0cbccd.js",
+    "static/media/OSS-SuppChainModel-FMC-modified.png": "/static/media/OSS-SuppChainModel-FMC-modified.6551243ac3324cc3bbca.png",
+    "static/media/sparta-logo.png": "/static/media/sparta-logo.b167577dad7491ef922b.png",
+    "static/media/AttackTreeExample-modified.png": "/static/media/AttackTreeExample-modified.49a06b3e87de2ffc83c3.png",
+    "static/media/assuremoss_logo.png": "/static/media/assuremoss_logo.fcdc81a58f3b3e841898.png",
+    "static/media/attackgraph.svg": "/static/media/attackgraph.e3fed8db89889517a0c8c4e54a662411.svg",
+    "static/media/KHULNASOFT_R_grad_scrn.png": "/static/media/KHULNASOFT_R_grad_scrn.4fb92db1677fe86b2d5a.png",
+    "index.html": "/index.html",
+    "main.fa935de4.css.map": "/static/css/main.fa935de4.css.map",
+    "main.fc0cbccd.js.map": "/static/js/main.fc0cbccd.js.map"
   },
   "entrypoints": [
-    "static/css/main.b0d39b0b.css",
-    "static/js/main.bf3fda50.js"
+    "static/css/main.fa935de4.css",
+    "static/js/main.fc0cbccd.js"
   ]
 }
