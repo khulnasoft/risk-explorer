@@ -3,7 +3,7 @@ updates:
   - package-ecosystem: github-actions
     directory: /
     schedule:
-      interval: monthly
+      interval: daily
   - package-ecosystem: npm
     open-pull-requests-limit: 10
     directory: /
