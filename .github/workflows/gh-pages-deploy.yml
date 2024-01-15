@@ -19,8 +19,8 @@ jobs:
       - name: Install and Build 
         run: |
           npm ci --force
-          npm i --save @fortawesome/fontawesome-svg-core
-          npm run build
+          npm i --save @fortawesome/fontawesome-svg-core --force
+          npm run build --force
 
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@v4.2.5
