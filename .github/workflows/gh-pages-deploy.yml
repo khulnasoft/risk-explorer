@@ -18,7 +18,7 @@ jobs:
 
       - name: Install and Build 
         run: |
-          npm ci
+          npm ci --force
           npm i --save @fortawesome/fontawesome-svg-core
           npm run build
 
