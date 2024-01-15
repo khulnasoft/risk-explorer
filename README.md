@@ -25,7 +25,7 @@ If you want to run a local version of the code you need to install [Node.js](htt
    
 ## Support, Feedback, Contributing
 
-This project is open to feature requests/suggestions, bug reports etc. via [GitHub issues](https://github.com/KHULNASOFT/riex/issues). Contribution and feedback are encouraged and always welcome. For more information about how to contribute, the project structure, as well as additional contribution information, see our [Contribution Guidelines](CONTRIBUTING.md).
+This project is open to feature requests/suggestions, bug reports etc. via [GitHub issues](https://github.com/KhulnaSoft/riex/issues). Contribution and feedback are encouraged and always welcome. For more information about how to contribute, the project structure, as well as additional contribution information, see our [Contribution Guidelines](CONTRIBUTING.md).
 
 ## Code of Conduct
 
@@ -33,4 +33,4 @@ We as members, contributors, and leaders pledge to make participation in our com
 
 ## Licensing
 
-Copyright 2022 KHULNASOFT SE or an KHULNASOFT affiliate company and Risk Explorer for Software Supply Chains contributors. Please see our [LICENSE](LICENSE) for copyright and license information. Detailed information including third-party components and their licensing/copyright information is available [via the REUSE tool](https://api.reuse.software/info/github.com/KHULNASOFT/riex/).
+Copyright 2022 KhulnaSoft SE or an KhulnaSoft affiliate company and Risk Explorer for Software Supply Chains contributors. Please see our [LICENSE](LICENSE) for copyright and license information. Detailed information including third-party components and their licensing/copyright information is available [via the REUSE tool](https://api.reuse.software/info/github.com/KhulnaSoft/riex/).

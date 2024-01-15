@@ -16,7 +16,7 @@ import Button from '@mui/material/Button';
 import { Link } from "react-router-dom";
 import VideogameAssetIcon from '@mui/icons-material/VideogameAsset';
 import spartaLogo from '../../images/sparta-logo.png'
-import sapLogo from '../../images/KHULNASOFT_R_grad_scrn.png'
+import sapLogo from '../../images/KhulnaSoft_R_grad_scrn.png'
 import assuremossLogo from '../../images/assuremoss_logo.png'
 import {ReactComponent as  AttacktreeImage} from '../../images/attackgraph.svg'
 import { createTheme, ThemeProvider, styled } from '@mui/material/styles';
@@ -290,7 +290,7 @@ class Home extends Component {
                                                                     <p>Read about the JSON files and their structure</p>
                                                                 </Grid>
                                                                 <Grid item xs={6}>
-                                                                    <a style={{ color: 'white', textDecoration: 'inherit' }} href="https://github.com/KHULNASOFT/riex" target='_blank' rel="noreferrer">
+                                                                    <a style={{ color: 'white', textDecoration: 'inherit' }} href="https://github.com/KhulnaSoft/riex" target='_blank' rel="noreferrer">
                                                                         <Button variant="outlined" style={{ width: '200px' }} size='large'>
 
                                                                             <GitHubIcon />
@@ -313,7 +313,7 @@ class Home extends Component {
                             {/* Box for the footer */}
                             <Grid container spacing={2}>
                                 <Grid item xs={8}>
-                                <a className="logo"  href="https://www.khulnasoft.com/" target="_blank" rel="noreferrer"><img style={{width:"80px", left:"0", marginLeft:"1%", marginTop:'.3%'}} src={sapLogo} alt="KHULNASOFT Logo" /></a>
+                                <a className="logo"  href="https://www.khulnasoft.com/" target="_blank" rel="noreferrer"><img style={{width:"80px", left:"0", marginLeft:"1%", marginTop:'.3%'}} src={sapLogo} alt="KhulnaSoft Logo" /></a>
                                 </Grid>
                                 <Grid item xs={2}>
 
@@ -329,7 +329,7 @@ class Home extends Component {
                                 
                               
                                 <Grid item xs={9}>
-                                <p style={{color:"white",fontSize:"12px",fontWeight:"light",marginLeft:"1%", marginBottom:".4%"}}> Copyright (c) 2023 KHULNASOFT SE or an KHULNASOFT affiliate company and Risk Explorer for Software Supply Chains contributors</p>
+                                <p style={{color:"white",fontSize:"12px",fontWeight:"light",marginLeft:"1%", marginBottom:".4%"}}> Copyright (c) 2022 KhulnaSoft SE or an KhulnaSoft affiliate company and Risk Explorer for Software Supply Chains contributors</p>
                                 </Grid>
                                 <Grid item xs={3}>
                                 <p style={{color:"white",fontSize:"12px", fontWeight:"light", textAlign:"right", marginRight:"4%", marginBottom:".4%"}}> This project is partially funded by the EU Horizon 2020 projects SPARTA (Grant Agreement No. 830892) and AssureMOSS (Grant Agreement No. 952647)</p>

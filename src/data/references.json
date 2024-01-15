@@ -861,7 +861,7 @@
     },
     {
         "title": "Fosstars: Ratings for open source projects",
-        "link": "https://github.com/KHULNASOFT/fosstars-rating-core",
+        "link": "https://github.com/KhulnaSoft/fosstars-rating-core",
         "safeguards": [{
             "sgId": "SG-013",
             "sgName": "Use of Security, Quality and Health Metrics"
@@ -873,7 +873,7 @@
     },
     {
         "title": "Credential Digger: GitHub scanner to identify hardcoded credentials",
-        "link": "https://github.com/KHULNASOFT/credential-digger",
+        "link": "https://github.com/KhulnaSoft/credential-digger",
         "safeguards": [{
             "sgId": "SG-021",
             "sgName": "Token Protection Mechanisms"
