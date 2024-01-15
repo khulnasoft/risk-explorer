@@ -1,21 +1,19 @@
 {
   "files": {
-    "main.css": "/riex/static/css/main.21e09956.chunk.css",
-    "main.js": "/riex/static/js/main.112834a5.chunk.js",
-    "main.js.map": "/riex/static/js/main.112834a5.chunk.js.map",
-    "runtime~main.js": "/riex/static/js/runtime~main.88573bde.js",
-    "runtime~main.js.map": "/riex/static/js/runtime~main.88573bde.js.map",
-    "static/js/2.2aac0745.chunk.js": "/riex/static/js/2.2aac0745.chunk.js",
-    "static/js/2.2aac0745.chunk.js.map": "/riex/static/js/2.2aac0745.chunk.js.map",
+    "main.css": "/riex/static/css/main.fa935de4.css",
+    "main.js": "/riex/static/js/main.f10d54bc.js",
+    "static/media/OSS-SuppChainModel-FMC-modified.png": "/riex/static/media/OSS-SuppChainModel-FMC-modified.6551243ac3324cc3bbca.png",
+    "static/media/sparta-logo.png": "/riex/static/media/sparta-logo.b167577dad7491ef922b.png",
+    "static/media/AttackTreeExample-modified.png": "/riex/static/media/AttackTreeExample-modified.49a06b3e87de2ffc83c3.png",
+    "static/media/assuremoss_logo.png": "/riex/static/media/assuremoss_logo.fcdc81a58f3b3e841898.png",
+    "static/media/attackgraph.svg": "/riex/static/media/attackgraph.e3fed8db89889517a0c8c4e54a662411.svg",
+    "static/media/KhulnaSoft_R_grad_scrn.png": "/riex/static/media/KhulnaSoft_R_grad_scrn.4fb92db1677fe86b2d5a.png",
     "index.html": "/riex/index.html",
-    "precache-manifest.9b5bbb4db3dc5298247efa9958f9525b.js": "/riex/precache-manifest.9b5bbb4db3dc5298247efa9958f9525b.js",
-    "service-worker.js": "/riex/service-worker.js",
-    "static/css/main.21e09956.chunk.css.map": "/riex/static/css/main.21e09956.chunk.css.map",
-    "static/media/AttackTreeExample-modified.png": "/riex/static/media/AttackTreeExample-modified.96c42990.png",
-    "static/media/KhulnaSoft_R_grad_scrn.png": "/riex/static/media/KhulnaSoft_R_grad_scrn.9632492e.png",
-    "static/media/OSS-SuppChainModel-FMC-modified.png": "/riex/static/media/OSS-SuppChainModel-FMC-modified.81b5c2c9.png",
-    "static/media/assuremoss_logo.png": "/riex/static/media/assuremoss_logo.6676fd12.png",
-    "static/media/attackgraph.acd15c22.svg": "/riex/static/media/attackgraph.acd15c22.svg",
-    "static/media/sparta-logo.png": "/riex/static/media/sparta-logo.262c8621.png"
-  }
+    "main.fa935de4.css.map": "/riex/static/css/main.fa935de4.css.map",
+    "main.f10d54bc.js.map": "/riex/static/js/main.f10d54bc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fa935de4.css",
+    "static/js/main.f10d54bc.js"
+  ]
 }
