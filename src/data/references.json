@@ -861,7 +861,7 @@
     },
     {
         "title": "Fosstars: Ratings for open source projects",
-        "link": "https://github.com/KhulnaSoft/fosstars-rating-core",
+        "link": "https://github.com/SAP/fosstars-rating-core",
         "safeguards": [{
             "sgId": "SG-013",
             "sgName": "Use of Security, Quality and Health Metrics"
@@ -873,7 +873,7 @@
     },
     {
         "title": "Credential Digger: GitHub scanner to identify hardcoded credentials",
-        "link": "https://github.com/KhulnaSoft/credential-digger",
+        "link": "https://github.com/SAP/credential-digger",
         "safeguards": [{
             "sgId": "SG-021",
             "sgName": "Token Protection Mechanisms"
@@ -6405,6 +6405,32 @@
         "tags": {
             "contents": ["attack"],
             "year": 2023
+        }
+    },
+    {
+        "title": "Backdoor in upstream xz/liblzma leading to ssh server compromise (CVE-2024-3094)",
+        "link": "https://www.openwall.com/lists/oss-security/2024/03/29/4",
+        "vectors": [{
+            "avId": "AV-800",
+            "avName": "Become Maintainer",
+            "scopeAvId": "AV-302",
+            "scopeAvName": "Contribute as Maintainer"
+        }],
+        "tags": {
+            "contents": ["attack"],
+            "year": 2024
+        }
+    },
+    {
+        "title": "Over 100,000 Infected Repos Found on GitHub",
+        "link": "https://apiiro.com/blog/malicious-code-campaign-github-repo-confusion-attack/",
+        "vectors": [{
+            "avId": "AV-208",
+            "avName": "Namespace Omission or Change"
+        }],
+        "tags": {
+            "contents": ["attack"],
+            "year": 2024
         }
     }
 ]
