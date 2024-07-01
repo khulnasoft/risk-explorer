@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.fa935de4.css",
-    "main.js": "/static/js/main.db50b192.js",
+    "main.js": "/static/js/main.033ab364.js",
     "static/media/OSS-SuppChainModel-FMC-modified.png": "/static/media/OSS-SuppChainModel-FMC-modified.6551243ac3324cc3bbca.png",
     "static/media/sparta-logo.png": "/static/media/sparta-logo.b167577dad7491ef922b.png",
     "static/media/AttackTreeExample-modified.png": "/static/media/AttackTreeExample-modified.49a06b3e87de2ffc83c3.png",
@@ -10,10 +10,10 @@
     "static/media/KhulnaSoft_R_grad_scrn.png": "/static/media/KhulnaSoft_R_grad_scrn.4fb92db1677fe86b2d5a.png",
     "index.html": "/index.html",
     "main.fa935de4.css.map": "/static/css/main.fa935de4.css.map",
-    "main.db50b192.js.map": "/static/js/main.db50b192.js.map"
+    "main.033ab364.js.map": "/static/js/main.033ab364.js.map"
   },
   "entrypoints": [
     "static/css/main.fa935de4.css",
-    "static/js/main.db50b192.js"
+    "static/js/main.033ab364.js"
   ]
 }
