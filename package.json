@@ -10,7 +10,7 @@
     "@mui/icons-material": "5.15.21",
     "@mui/material": "5.2.8",
     "@testing-library/jest-dom": "6.4.8",
-    "@testing-library/react": "12.1.2",
+    "@testing-library/react": "12.1.5",
     "@testing-library/user-event": "13.5.0",
     "d3": "7.3.0",
     "d3-selection": "3.0.0",
