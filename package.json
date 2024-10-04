@@ -16,7 +16,7 @@
     "d3-selection": "3.0.0",
     "d3-zoom": "3.0.0",
     "gh-pages": "5.0.0",
-    "html-react-parser": "1.4.8",
+    "html-react-parser": "5.1.17",
     "react": "17.0.2",
     "react-bootstrap": "2.10.4",
     "react-burger-menu": "3.0.6",
